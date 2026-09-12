@@ -9,7 +9,7 @@ The dashboard transforms raw mobile sales data into an interactive business inte
 
 ## 📊 Dashboard Preview
 
-![Mobile Sales Dashboard](Dashboard on mobile sales.png)
+![Mobile Sales Dashboard](https://github.com/Shumaila1987/Dashboard-on-Mobile_sales_dataset-using-Microsoft-Power-BI/blob/main/Dashboard%20on%20mobile%20sales.png)
 
 ---
 
