@@ -9,7 +9,7 @@ The dashboard transforms raw mobile sales data into an interactive business inte
 
 ## 📊 Dashboard Preview
 
-![Mobile Sales Dashboard]()
+![Mobile Sales Dashboard](Dashboard on mobile sales.png)
 
 ---
 
