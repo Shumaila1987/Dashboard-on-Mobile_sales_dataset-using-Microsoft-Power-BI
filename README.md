@@ -241,21 +241,4 @@ This project was created as a practical demonstration of data visualization, bus
 
 Feel free to ⭐ the repository and explore the dashboard and dataset.
 
-### Suggested GitHub structure
-
-I’d structure the repository like this:
-
-```text
-mobile-sales-powerbi/
-│
-├── README.md
-│
-├── data/
-│   └── mobile_sales_data.csv
-│
-├── dashboard/
-│   └── Mobile_Sales_Dashboard.pbix
-│
-└── images/
-    └── dashboard-preview.png
 ![Mobile Sales Dashboard](images/dashboard-preview.png)
