@@ -241,5 +241,3 @@ This project was created as a practical demonstration of data visualization, bus
 ⭐ If you found this project useful
 
 Feel free to ⭐ the repository and explore the dashboard and dataset.
-
-![Mobile Sales Dashboard](https://github.com/Shumaila1987/Dashboard-on-Mobile_sales_dataset-using-Microsoft-Power-BI/blob/main/Dashboard%20on%20mobile%20sales.png)
